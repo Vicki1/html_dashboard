@@ -1,0 +1,136 @@
+path {
+  fill: #56595e;
+  margin: 2vw;
+}
+
+aside h4 {
+  color: #56595e;
+  margin-left: 2vw;
+}
+
+.aside-top-ul {
+  background: #282b2d;
+  width: 100%;
+  max-width: 400px;
+    padding: 2vw 5vw 7vh 0
+  
+  
+  
+}
+
+.aside-top-ul li {
+  display: flex;
+  padding-top: 2vh;
+  padding-left: 2vw;
+}
+
+.aside-bottom-ul {
+  background: black;
+  width: 100%;
+  max-width: 400px;
+  padding: 2vw 5vw 7vh 0
+
+  
+}
+
+.aside-bottom-ul li {
+  display: flex;
+  padding-top: 2vh;
+  padding-left: 2vw;
+}
+
+.left-link {
+  margin-left: 3vw;
+}
+
+
+
+
+
+main {
+  display: flex;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0 10px 0;
+}
+
+nav ul {
+  display: flex;
+}
+
+.right-side {
+  width: 100%;
+}
+
+.nav-ul-top ul li {
+  padding: 10px;
+}
+
+.nav-ul-bottom {
+  display: flex;
+}
+
+.nav-ul-bottom ul li {
+  padding: 10px;
+}
+
+.sub-header ul {
+  display: inline-flex;
+}
+
+.sub-header-right-arrow {
+  padding-right: 10px;
+}
+
+.sub-header1 {
+  width: 100%;
+  display: flex;
+  margin: 10px 0 5px 0;
+  justify-content: space-between
+}
+
+.sub-header1 ul li {
+  margin: 0 10px 0 10px;
+}
+
+.name {
+  display: flex;
+  background: #eaeced;
+
+  padding:10px 0 10px 0;
+  justify-content: space-between;
+}
+
+.name-word {
+  width: 100%;
+  display: flex;
+  margin: 0 10px 0 10px;
+}
+
+.name-word svg {
+  margin-left: 10px;
+}
+
+.name-right-icons {
+  margin-right: 10px;
+}
+
+.product-wrapper{
+background: #eaeced;
+}
+
+.product-wrapper ul {
+  flex-wrap: wrap;
+  margin-left: 2vw;
+  
+}
+
+.pic {
+  height: 180px;
+  width: 180px;
+  margin: 10px;
+  background: black;
+}
